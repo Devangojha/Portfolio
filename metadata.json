@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Tech - Next-Gen E-Commerce Gadgets",
+  "description": "Next-generation gadget e-commerce platform featuring real-time inventory tracking, verified customer reviews, secure checkout, and instant push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
